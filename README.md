@@ -3,8 +3,8 @@ Mini Projeto com o intuito de aprender um pouco mais sobre o Bando de dados rela
 
 **Desenvolvido por** *Arthur Felipe MS*
 
-## Linguagens Utilizadas
-* *MySQL*
+## Linguagem Utilizada
+* *SQL*
 
 ### Desenvolvido com
 * *DB Browser for SQLite*
