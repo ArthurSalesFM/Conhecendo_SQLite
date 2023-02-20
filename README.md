@@ -1,5 +1,5 @@
-# Mini Projeto com SQLite
-Mini Projeto com o intuito de aprender um pouco mais sobre o Bando de dados relacional SQLite
+# Conhecendo o SQLite
+Conhecendo a linguagem SQL e o banco de dados SQLite
 
 **Desenvolvido por** *Arthur Felipe MS*
 
